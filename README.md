@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ecaltun
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me e.c.altun@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I speak 3 languages.
+- ⚡ Fun fact: I speak 3 languages (Turkish, English, and Russian).
 
 <!---
 ecaltun/ecaltun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
