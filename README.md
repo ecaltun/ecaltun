@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ecaltun
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me e.c.altun@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I speak 3 languages (Turkish, English, and Russian).
